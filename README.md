@@ -1,2 +1,2 @@
 # trip-planner
-this is bais website
+this is basic website
